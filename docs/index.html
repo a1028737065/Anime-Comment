@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Anime Comment</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Some comment for anime, movie, drama.">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+    <!-- dark mode -->
+    <link rel="stylesheet" href="./style/dark.css" title="docsify-darklight-theme" />
+</head>
+
+<body>
+    <div id="app">加载中...</div>
+    <script>
+        window.$docsify = {
+            name: 'Anime Comment',
+            homepage: '/index/homepage.md',
+            auto2top: true,
+            //sidebar
+            loadSidebar: true,
+            subMaxLevel: 3,
+            alias: {
+                // 全部侧边栏从根_sidebar.md加载
+                '/.*/_sidebar.md': '/index/sidebar.md'
+            },
+            search: {
+                placeholder: '搜索',
+                noData: '没有相关内容'
+            },
+            //theme
+            darklightTheme: {
+                siteFont: "Microsoft YaHei | PT Sans",
+                defaultTheme: 'light',
+                light: {
+                    sidebarSublink: '#34495e'
+                },
+                dark: {
+                    accent: '#33A6B8',
+                    background: '#1C1C1C',
+                    textColor: '#BDC0CA',
+                    borderColor: '#0C4842',
+                    blockQuoteColor: '#7a97a0',
+                },
+            },
+            //pagination
+            pagination: {
+                previousText: 'Previous',
+                nextText: 'Next',
+                crossChapter: false,
+            },
+        }
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <!-- dark mode -->
+    <script src="./style/dark.js"></script>
+    <!-- search -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- image zoom -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <!--pagination-->
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <!-- progressive web apps -->
+    <script>
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+        }
+    </script>
+</body>
+
+</html>
