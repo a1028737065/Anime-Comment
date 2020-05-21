@@ -9,7 +9,7 @@
 - 译名：时光沙漏 / Frag-time
 - 改编类型：漫画 --> 剧场版（1小时）
 - 放送日期：2019-11-22
-- 集数：1 [1080P HEVC下载](https://share.dmhy.org/topics/view/540886_Fragtime_BDrip_GB_1080P_HEVC_FLAC_MP4.html)
+- 集数：1 [1080P HEVC下载](http://49.234.223.102:5555/video/[KTXP][Fragtime][MOVIE][GB][1080p][BDrip][HEVC][FLAC].mkv)
 
 ### STAFF
 - 原作: さと（秋田书店）
@@ -24,7 +24,7 @@
 - **森谷美玲**：伊藤美来
 ![森谷美玲](./image/Fragtime2.jpg ':size=250xauto')
 - **村上遥**：宫本侑芽
- ![村上遥](./image/Fragtime3.jpg ':size=250xauto')
+![村上遥](./image/Fragtime3.jpg ':size=250xauto')
 - 小林由香利：安济知佳
 
 miku不用说了，可爱。
@@ -80,4 +80,4 @@ bgm那些没注意（土下座.jpg）
 
 ## 总结
 
-人物设定和作画很OK啦，但是剧情平平淡淡，也就最后的对吼有、意思，不建议（还不如去看*牵牛花*（不是））。
+人物设定和作画很OK啦，但是剧情平平淡淡，也就最后的对吼有、意思，不建议看（还不如去看*牵牛花*（不是））。
