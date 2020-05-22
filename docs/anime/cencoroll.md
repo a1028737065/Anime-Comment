@@ -10,6 +10,7 @@
 *（CENCO就是千子的发音，CONNECT指的应该是连接兽，也就是影片里的怪兽）*
 - 改编类型：原创、剧场版
 - 时长：74min
+- 观看：[前作在线观看 - bilibili](https://www.bilibili.com/bangumi/media/md2907/)、[本作 下载](http://49.234.223.102:5555/video/[Nekomoe%20kissaten]%20CENCOROLL%20CONNECT%20[BDRip].zip)
 
 实际上前作相当于一个预览版的短片，而本作则是一部完整版，包括了前作的内容。
 
@@ -50,7 +51,7 @@
 
 爽快的打击动画
 
-![打击](image/cencoroll3.gif)
+![打击](https://image-1259127559.cos.ap-nanjing.myqcloud.com/cencoroll3.gif)
 
 各样的怪兽（无图
 
@@ -58,9 +59,9 @@
 
 ## 音乐
 
-片尾曲![#Love - supercell/Ann/gaku](https://music.163.com/#/song?id=1381054296)
+片尾曲[#Love - supercell/Ann/gaku](https://music.163.com/#/song?id=1381054296)
 
-Ann♀和gaku♂都是supercell的成员。前作的片尾曲![LOVE & ROLL](https://music.163.com/#/song?id=825652)也是由supercell制作（收录进了专辑*君の知らない物語*，没错就是化物语的那首），虽然主唱换人了。
+Ann♀和gaku♂都是supercell的成员。前作的片尾曲[LOVE & ROLL](https://music.163.com/#/song?id=825652)也是由supercell制作（收录进了专辑*君の知らない物語*，没错就是化物语的那首），虽然主唱换人了。
 
 A part由Ann演唱，B part由gaku演唱，后面是男女对唱。小情歌，曲风好，风格和 君の知らない物語 差不多。
 
