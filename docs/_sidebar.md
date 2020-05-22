@@ -2,4 +2,4 @@
 * 动画
   * [白箱](anime/shirobako "SHIROBAKO 白箱")
   * [时间沙漏](anime/Fragtime "フラグタイム")
-  * [千子](anime/cencoroll_connect "CENCOROLL CONNECT")
+  * [千子](anime/cencoroll "CENCOROLL CONNECT")
